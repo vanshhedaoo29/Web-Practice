@@ -1,1 +1,2 @@
-alert('I am Vansh')
+
+// console.log(typeof NaN);
