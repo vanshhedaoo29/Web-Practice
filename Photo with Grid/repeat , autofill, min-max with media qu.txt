@@ -1,0 +1,3 @@
+repeat , autofill, min-max with media queries
+design system
+scss is a preprocessor
