@@ -14,6 +14,7 @@ main {
   width: 100%;
   padding: 1.5rem;
   padding-top: 4rem;
+  padding-right: 2rem;
   display: flex;
   flex-direction: column;
   gap: 1.5em;
@@ -42,7 +43,7 @@ main .image-text {
   width: 100%;
   display: flex;
   flex-direction: column;
-  gap: 1.5em;
+  gap: 1em;
 }
 main .image-text .top {
   width: 100%;
@@ -65,11 +66,11 @@ main .image-text .bottom h1 {
   letter-spacing: 0.5px;
   line-height: 110%;
   font-weight: lighter;
-  padding-bottom: 0.4em;
+  padding-bottom: 0.15em;
 }
 main .image-text .bottom p {
   font-family: monospace;
-  font-size: 1.54em;
+  font-size: 1.5em;
   font-weight: lighter;
-  line-height: 140%;
+  line-height: 130%;
 }/*# sourceMappingURL=style.css.map */
