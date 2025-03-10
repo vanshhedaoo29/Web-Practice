@@ -40,11 +40,15 @@ h2 {
 }
 .pdf a {
   text-decoration: none;
-  background-color: red;
+  background-color: rgb(255, 0, 0);
   color: white;
   border-radius: 0.5rem;
   padding: 0.2rem 2rem;
   margin-top: 1rem;
+}
+.pdf a:hover {
+  background-color: rgba(255, 0, 0, 0.7);
+  transition: 0.2s all ease-in-out;
 }
 
 .a {
@@ -69,7 +73,7 @@ h2 {
 }
 .a a {
   text-decoration: none;
-  background-color: rgb(59, 18, 224);
+  background-color: rgb(56, 10, 241);
   color: white;
   border-radius: 0.5rem;
   width: 8rem;
@@ -77,6 +81,10 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.a a:hover {
+  background-color: rgba(56, 10, 241, 0.8);
+  transition: 0.3s all ease-in-out;
 }
 
 footer {
