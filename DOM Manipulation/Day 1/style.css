@@ -16,5 +16,18 @@
 
   h1 {
     color: white;
-    font-size: 5rem;
+    font-size: rem;
+  }
+
+  #box{
+    color: #fff;
+    background-color: #1dc3e4;
+    width: 350px;
+    height: 350px;
+    font-size: 2rem;
+  }
+
+  button{
+    width: 5rem;
+    height: 2rem;
   }
